@@ -1,0 +1,8 @@
+bot:
+  username: template_telegram_kazino_bot
+  token: 8397578656:AAFh9EFJjhk32XVdzw206qoi8jtqBIXyClw
+spring:
+  datasource:
+    url: jdbc:postgresql://5.188.140.80:5432/telebot_kazino_db
+    username: telebot_kazino
+    password: xS+(S;g8C8J46:O
